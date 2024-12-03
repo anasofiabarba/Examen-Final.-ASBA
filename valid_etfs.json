@@ -1,0 +1,126 @@
+[
+    {
+        "symbol": "CNYA",
+        "name": "AZ China"
+    },
+    {
+        "symbol": "EWT",
+        "name": "AZ MSCI Taiwan"
+    },
+    {
+        "symbol": "IWM",
+        "name": "AZ Russell 2000"
+    },
+    {
+        "symbol": "EWZ",
+        "name": "AZ Brasil"
+    },
+    {
+        "symbol": "EWU",
+        "name": "AZ MSCI United Kingdom"
+    },
+    {
+        "symbol": "XLF",
+        "name": "AZ DJ US Financial Sect"
+    },
+    {
+        "symbol": "BKF",
+        "name": "AZ BRIC"
+    },
+    {
+        "symbol": "EWY",
+        "name": "AZ MSCI South Korea"
+    },
+    {
+        "symbol": "AGG",
+        "name": "AZ Barclays Aggregate"
+    },
+    {
+        "symbol": "EEM",
+        "name": "AZ Mercados Emergentes"
+    },
+    {
+        "symbol": "EZU",
+        "name": "AZ MSCI EMU"
+    },
+    {
+        "symbol": "FXI",
+        "name": "AZ FTSE/Xinhua China 25"
+    },
+    {
+        "symbol": "GLD",
+        "name": "AZ Oro"
+    },
+    {
+        "symbol": "QQQ",
+        "name": "AZ QQQ NASDAQ 100"
+    },
+    {
+        "symbol": "AAXJ",
+        "name": "AZ MSCI Asia ex-Japan"
+    },
+    {
+        "symbol": "SHY",
+        "name": "AZ Barclays 1-3 Year Tr"
+    },
+    {
+        "symbol": "ACWI",
+        "name": "AZ MSCI ACWI Index Fund"
+    },
+    {
+        "symbol": "SLV",
+        "name": "AZ Silver Trust"
+    },
+    {
+        "symbol": "EWH",
+        "name": "AZ MSCI Hong Kong Index"
+    },
+    {
+        "symbol": "SPY",
+        "name": "AZ SPDR S&P 500 ETF Trust"
+    },
+    {
+        "symbol": "EWJ",
+        "name": "AZ MSCI Japan Index Fund"
+    },
+    {
+        "symbol": "IEI",
+        "name": "AZ BG EUR Govt Bond 1-3"
+    },
+    {
+        "symbol": "DIA",
+        "name": "AZ SPDR DJIA Trust"
+    },
+    {
+        "symbol": "EWQ",
+        "name": "AZ MSCI France Index Fund"
+    },
+    {
+        "symbol": "VWO",
+        "name": "AZ Vanguard Emerging Market ETF"
+    },
+    {
+        "symbol": "EWA",
+        "name": "AZ MSCI Australia Index"
+    },
+    {
+        "symbol": "EWC",
+        "name": "AZ MSCI Canada"
+    },
+    {
+        "symbol": "ILF",
+        "name": "AZ S&P Latin America 40"
+    },
+    {
+        "symbol": "XLV",
+        "name": "AZ Health Care Select Sector"
+    },
+    {
+        "symbol": "EWG",
+        "name": "AZ MSCI Germany Index"
+    },
+    {
+        "symbol": "ITB",
+        "name": "AZ DJ US Home Construct"
+    }
+]
